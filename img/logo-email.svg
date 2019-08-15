@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Otto-Website-Copy" transform="translate(-185.000000, -979.000000)">
+            <g id="Group-5" transform="translate(185.000000, 979.000000)">
+                <circle id="Oval-Copy" fill="#FFFFFF" cx="28.5" cy="28.5" r="28.5"></circle>
+                <g id="Group" transform="translate(25.500000, 29.566667) rotate(-10.000000) translate(-25.500000, -29.566667) translate(5.000000, 20.000000)">
+                    <path d="M8.07331393,4.4686306 L3.09875424,4.4686306" id="Line" stroke="#041F78" stroke-width="0.5" stroke-linecap="round" transform="translate(5.586034, 4.468631) rotate(-1.000000) translate(-5.586034, -4.468631) "></path>
+                    <path d="M3.28320939,10.4737183 L0.234285714,10.4737183" id="Line-Copy" stroke="#041F78" stroke-width="0.5" stroke-linecap="round" transform="translate(1.758748, 10.473718) rotate(-1.000000) translate(-1.758748, -10.473718) "></path>
+                    <path d="M9.55016478,15.5225478 L3.93372642,15.5225478" id="Line-Copy-2" stroke="#041F78" stroke-width="0.5" stroke-linecap="round" transform="translate(6.741946, 15.522548) rotate(-1.000000) translate(-6.741946, -15.522548) "></path>
+                    <g id="envelope" transform="translate(15.036365, 0.000000)" fill-rule="nonzero">
+                        <polygon id="Path" fill="#2791EF" points="0 0.222167488 0 0.268378325 0 18.3825823 0 18.4399015 0.0573192118 18.4399015 25.5674788 18.4399015 25.7141094 18.4399015 25.7714286 18.4399015 25.7714286 18.3825823 25.7714286 0.268378325 25.7714286 0.222167488"></polygon>
+                        <path d="M0,0.222611823 L12.0588069,12.3382936 C12.5249143,12.7719645 13.2469586,12.7719645 13.713066,12.3382936 L25.7714286,0.222167488 L0,0.222611823 Z" id="Path" fill="#4DC6FB"></path>
+                        <path d="M0,17.866265 L0,0.795803941 C0,0.560750739 0.269266995,0.427450246 0.45633202,0.570081773 L9.33103448,9.55320197 L0.45633202,18.0924315 C0.269266995,18.2346187 0,18.1013182 0,17.866265 Z" id="Path" fill="#157CD8"></path>
+                        <path d="M25.7714286,17.866265 L25.7714286,0.795803941 C25.7714286,0.560750739 25.5021616,0.427450246 25.3150966,0.570081773 L16.4403941,9.55320197 L25.3150966,18.0924315 C25.5021616,18.2346187 25.7714286,18.1013182 25.7714286,17.866265 Z" id="Path" fill="#157CD8"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
